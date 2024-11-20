@@ -338,7 +338,7 @@ function main(config) {
     "Lan": {
       ...ruleProviderCommon,
       "behavior": "classical",
-      "url": "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Lan.list",
+      "url": "https://github.com/lism/Tool/raw/X/Clash/Rules/Lan.list",
       "path": "./rules/Lan.list"
     },
     "ProxyGFW": {
